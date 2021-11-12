@@ -1,7 +1,7 @@
 var animal = "tiger";
 var isCuddly = false;
 
-animal = "panda";
+animal = "dog";
 
 var num8 = 3;
 var num3 = 9;
