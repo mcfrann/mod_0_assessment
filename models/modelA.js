@@ -6,8 +6,7 @@ var laptop = {
   new: true,
   diskDrive: false,
   programs: ["Chrome", "Skype", "Atom"],
-  addOns: ["extra storage", "external disk drive", "airpods"],
-  storeAddress: {street: "1st Avenue", number: 234, city: "Denver", state: "Colorado"}
+  addOns: ["extra storage", "external disk drive", "airpods"]
 }
 
 console.log(laptop);
