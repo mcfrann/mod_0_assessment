@@ -5,7 +5,7 @@ animal = "dog";
 
 var num8 = 3;
 var num3 = 9;
-var quotient = num3 / num8
+var quotient = num3 / num8;
 console.log(quotient);
 
 var favoriteFilms = ["Midsommar", "Interstellar", "Braveheart"];
