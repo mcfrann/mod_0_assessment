@@ -6,8 +6,7 @@ var house = {
   hasYard: true,
   hasFence: true,
   features: ["granite countertops", "hardwood floors", "natural light"],
-  nearbyAttractions: ["park", "running trail", "nightlife"],
-  address: {street: "Logan", number: 987, city: "Chicago", state: "Illinois"}
+  nearbyAttractions: ["park", "running trail", "nightlife"]
 }
 
 console.log(house);
